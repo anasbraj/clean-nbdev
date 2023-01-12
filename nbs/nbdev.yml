@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "clean-nbdev"
+  site-url: "https://anasbraj.github.io/clean-nbdev"
+  description: "clean repo for nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/anasbraj/clean-nbdev"
